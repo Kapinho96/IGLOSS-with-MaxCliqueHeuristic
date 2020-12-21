@@ -1,0 +1,423 @@
+
+Sequence Id	motif
+>AT1G14910.1 | Symbols:  | epsin N-terminal homology (ENTH) domain-containing protein | chr1:5139928-5143571 REVERSE	FAFSDSVSPP
+>AT1G77300.1 | Symbols: EFS, SDG8, CCR1 | EFS (EARLY FLOWERING IN SHORT DAYS); histone methyltransferase(H3-K36 specific) / histone methyltransferase(H3-K4 specific) | chr1:29040160-29048810 REVERSE	FSFPDSLLDS
+>AT1G09390.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:3031264-3033415 FORWARD	FNFGDSNSDT
+>AT1G77340.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:29068343-29069828 REVERSE	FCSGDTLDEA
+>AT1G51170.1 | Symbols:  | protein kinase family protein | chr1:18953625-18954839 REVERSE	FLVHDSVSDS
+>AT1G73610.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:27678377-27679807 FORWARD	FAFGDSILDT
+>AT1G73480.1 | Symbols:  | hydrolase, alpha/beta fold family protein | chr1:27629266-27632486 FORWARD	FCFGHSTGGA
+>AT1G77690.1 | Symbols: LAX3 | LAX3 (LIKE AUX1 3); amino acid transmembrane transporter/ auxin influx transmembrane transporter/ transporter | chr1:29201232-29203317 REVERSE	FWHGGSVYDA
+>AT1G49770.1 | Symbols: RGE1, ZOU | RGE1 (RETARDED GROWTH OF EMBRYO 1); DNA binding / transcription factor | chr1:18424578-18426531 FORWARD	FMWGISNSDD
+>AT1G76020.1 | Symbols:  | INVOLVED IN: biological_process unknown; LOCATED IN: cell wall, vacuole; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Thioredoxin fold (InterPro:IPR012335), Thioredoxi	YVNGFVLSDA
+>AT1G17070.1 | Symbols:  | D111/G-patch domain-containing protein | chr1:5837653-5840202 FORWARD	FQGWDPLSDA
+>AT1G75920.1 | Symbols:  | family II extracellular lipase 5 (EXL5) | chr1:28505591-28507023 FORWARD	LAFGDSMVDT
+>AT1G75930.1 | Symbols: EXL6 | EXL6; acyltransferase/ carboxylesterase/ lipase | chr1:28508109-28509708 FORWARD	FAFGDSVLDT
+>AT1G14770.1 | Symbols:  | protein binding / zinc ion binding | chr1:5086867-5088437 REVERSE	FMFDPSMSDA
+>AT1G14650.1 | Symbols:  | SWAP (Suppressor-of-White-APricot)/surp domain-containing protein / ubiquitin family protein | chr1:5028077-5030520 FORWARD	FTFFTSLVDA
+>AT1G14640.1 | Symbols:  | SWAP (Suppressor-of-White-APricot)/surp domain-containing protein | chr1:5023656-5025955 FORWARD	FTFFTSLVDA
+>AT1G67510.1 | Symbols:  | leucine-rich repeat family protein | chr1:25297477-25300184 REVERSE	FVNNGSLADA
+>AT1G29670.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:10375843-10377717 FORWARD	FVFGDSLVDN
+>AT1G29660.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:10371955-10373624 FORWARD	FIFGDSLVDN
+>AT1G53940.1 | Symbols: GLIP2 | GLIP2; arylesterase/ carboxylesterase/ lipase | chr1:20143279-20145780 FORWARD	FVFGDSVFDA
+>AT1G53920.1 | Symbols: GLIP5 | GLIP5; carboxylesterase/ lipase | chr1:20137725-20139637 FORWARD	FLFGDSFLDA
+>AT1G03380.1 | Symbols: ATATG18G | AtATG18g | chr1:836155-840362 FORWARD	FVLNSSGSDA
+>AT1G26920.1 | Symbols:  | unknown protein | chr1:9329584-9330105 FORWARD	YVYGDSLLDG
+>AT1G61990.1 | Symbols:  | mitochondrial transcription termination factor-related / mTERF-related | chr1:22911453-22912697 FORWARD	FVLSNSFSSA
+>AT1G53500.1 | Symbols: MUM4, RHM2, ATRHM2, ATMUM4 | MUM4 (MUCILAGE-MODIFIED 4); UDP-4-keto-6-deoxy-glucose-3,5-epimerase/ UDP-4-keto-rhamnose-4-keto-reductase/ UDP-L-rhamnose synthase/ UDP-glucose 4,6-dehydratase/ catalytic | chr1:19967157-1996923	FVKGDIASDD
+>AT1G04260.1 | Symbols: MPI7, MPIP7, PRA1.D | MPI7 (CAMV MOVEMENT PROTEIN INTERACTING PROTEIN 7); protein binding | chr1:1140749-1141297 REVERSE	FSFPSSIADA
+>AT1G06990.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:2148393-2150009 FORWARD	LVFGDSTIDT
+>AT1G53470.1 | Symbols: MSL4 | MSL4 (MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 4) | chr1:19958587-19961578 FORWARD	FVFGNSCKTI
+>AT1G53720.1 | Symbols: ATCYP59, CYP59 | CYP59 (CYCLOPHILIN 59); RNA binding / nucleic acid binding / peptidyl-prolyl cis-trans isomerase | chr1:20057012-20059508 FORWARD	FKTGDSLCYA
+>AT1G50630.1 | Symbols:  | unknown protein | chr1:18751654-18753569 REVERSE	FLFFDKLWDE
+>AT1G54240.1 | Symbols:  | DNA binding | chr1:20253088-20254494 FORWARD	MVSGDTKSDA
+>AT1G20840.1 | Symbols: TMT1 | TMT1 (TONOPLAST MONOSACCHARIDE TRANSPORTER1); carbohydrate transmembrane transporter/ nucleoside transmembrane transporter/ sugar:hydrogen symporter | chr1:7245107-7247674 REVERSE	MVFTMSLSDS
+>AT1G74690.1 | Symbols: IQD31 | IQD31 (IQ-domain 31); calmodulin binding | chr1:28061498-28063924 REVERSE	PVQDHSLSDA
+>AT1G74630.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:28030521-28032452 FORWARD	FVFPDSFSFA
+>AT1G74600.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:28025153-28027840 REVERSE	KVFRDSLSAN
+>AT1G79800.1 | Symbols:  | plastocyanin-like domain-containing protein | chr1:30018549-30019217 FORWARD	FHIGDSLSFV
+>AT1G56670.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:21241688-21243965 FORWARD	FNFGDSNSDT
+>AT1G54020.2 | Symbols:  | myrosinase-associated protein, putative | chr1:20161805-20163706 REVERSE	FTFGDSNFDA
+>AT1G54030.1 | Symbols:  | GDSL-motif lipase, putative | chr1:20167685-20169476 FORWARD	FVFGDGLYDA
+>AT1G54010.1 | Symbols:  | myrosinase-associated protein, putative | chr1:20158854-20160747 REVERSE	FTFGDSNFDA
+>AT1G54000.1 | Symbols:  | myrosinase-associated protein, putative | chr1:20154548-20156365 REVERSE	FTFGDSNFDA
+>AT1G53990.1 | Symbols: GLIP3 | GLIP3; carboxylesterase/ lipase | chr1:20151016-20152752 FORWARD	FVFGDSLFDA
+>AT1G67450.1 | Symbols:  | F-box family protein | chr1:25266163-25267359 FORWARD	VVFGRSLSKQ
+>AT1G23500.1 | Symbols:  | GDSL-motif lipase, putative | chr1:8339668-8341072 FORWARD	FAFGDSILDT
+>AT1G11090.1 | Symbols:  | hydrolase, alpha/beta fold family protein | chr1:3702655-3703629 FORWARD	FLFGESMGGA
+>AT1G67370.1 | Symbols: ASY1, ATASY1 | ASY1 (ASYNAPTIC 1); DNA binding | chr1:25239347-25243713 REVERSE	FSFSYSDSDS
+>AT1G67300.2 | Symbols:  | hexose transporter, putative | chr1:25193832-25196751 REVERSE	FVSGVSNSLA
+>AT1G59406.1 | Symbols:  | GDSL-motif lipase, putative | chr1:21844451-21845881 REVERSE	IVFGDSIMDT
+>AT1G30090.1 | Symbols:  | kelch repeat-containing F-box family protein | chr1:10559746-10560942 REVERSE	FVCGGMVSDS
+>AT1G61140.1 | Symbols: EDA16 | EDA16 (embryo sac development arrest 16); ATP binding / DNA binding / helicase/ nucleic acid binding / protein binding / zinc ion binding | chr1:22535038-22540610 REVERSE	FNNSNSLSDS
+>AT1G04830.1 | Symbols:  | RabGAP/TBC domain-containing protein | chr1:1359087-1361844 REVERSE	FSFFDSLHIW
+>AT1G31180.1 | Symbols:  | 3-isopropylmalate dehydrogenase, chloroplast, putative | chr1:11142843-11144617 REVERSE	NIFGDILSDE
+>AT1G31550.1 | Symbols:  | GDSL-motif lipase, putative | chr1:11295635-11297284 REVERSE	ISFGDSIADT
+>AT1G65380.1 | Symbols: CLV2, AtRLP10 | CLV2 (clavata 2); protein binding / receptor signaling protein | chr1:24286943-24289105 FORWARD	FVFSPSLPLA
+>AT1G31360.1 | Symbols: RECQL2, ATRECQ2 | RECQL2 (ARABIDOPSIS RECQ HELICASE L2); 3'-5' DNA helicase/ ATP-dependent helicase/ four-way junction helicase/ protein binding | chr1:11232422-11237412 FORWARD	FVIHHSLSKS
+>AT1G01920.1 | Symbols:  | SET domain-containing protein | chr1:316204-319507 FORWARD	FVFPQSQDDT
+>AT1G33811.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:12267918-12269690 FORWARD	FIFGDSLVDN
+>AT1G04960.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protei	WWKGWSFSDA
+>AT1G28650.1 | Symbols:  | lipase, putative | chr1:10069547-10071082 REVERSE	ISFGDSIADT
+>AT1G28610.1 | Symbols:  | GDSL-motif lipase, putative | chr1:10054477-10055665 REVERSE	ISFGDSITDT
+>AT1G28660.2 | Symbols:  | lipase, putative | chr1:10071856-10073371 REVERSE	ISFGDSIADT
+>AT1G13635.1 | Symbols:  | methyladenine glycosylase family protein | chr1:4674248-4675784 FORWARD	FRHGDCVSLA
+>AT1G46984.1 | Symbols:  | F-box protein-related | chr1:17274722-17275834 FORWARD	FVFPDTTFEA
+>AT1G54720.1 | Symbols:  | early-responsive to dehydration protein-related / ERD protein-related | chr1:20422831-20423754 FORWARD	FSFFDSLAEL
+>AT1G28600.1 | Symbols:  | lipase, putative | chr1:10051228-10053073 REVERSE	ISFGDSIADT
+>AT1G69710.1 | Symbols:  | zinc finger protein, putative / regulator of chromosome condensation (RCC1) family protein | chr1:26222509-26226530 FORWARD	FVWGESISDG
+>AT1G28640.1 | Symbols:  | GDSL-motif lipase, putative | chr1:10067563-10069109 REVERSE	ISFGDSIADT
+>AT1G27870.1 | Symbols:  | nucleic acid binding | chr1:9706657-9707298 REVERSE	FVNGDVKSKA
+>AT1G36180.1 | Symbols: ACC2 | ACC2 (ACETYL-COA CARBOXYLASE 2); acetyl-CoA carboxylase | chr1:13546047-13558339 FORWARD	FAFGESRSVA
+>AT1G54790.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:20441124-20443997 REVERSE	FNFGDSNSDT
+>AT1G27740.1 | Symbols:  | basic helix-loop-helix (bHLH) family protein | chr1:9654753-9655806 FORWARD	WVDGQSLSNS
+>AT1G08570.1 | Symbols: ACHT4 | ACHT4 (ATYPICAL CYS HIS RICH THIOREDOXIN 4); oxidoreductase, acting on sulfur group of donors, disulfide as acceptor | chr1:2713059-2714312 FORWARD	IVFGDSQDES
+>AT1G28670.1 | Symbols: ARAB-1 | ARAB-1; carboxylesterase/ hydrolase, acting on ester bonds | chr1:10074669-10076250 REVERSE	ISFGDSIADT
+>AT1G18990.1 | Symbols:  | unknown protein | chr1:6558778-6560432 REVERSE	FYYNDSICDA
+>AT1G19100.1 | Symbols:  | ATP-binding region, ATPase-like domain-containing protein-related | chr1:6595560-6601159 FORWARD	FGFSDKKSDS
+>AT1G75890.1 | Symbols:  | family II extracellular lipase 2 (EXL2) | chr1:28493051-28495047 FORWARD	IVFGDSIVDA
+>AT1G75900.1 | Symbols:  | family II extracellular lipase 3 (EXL3) | chr1:28499179-28500943 FORWARD	IAFGDSIVDT
+>AT1G75880.1 | Symbols:  | family II extracellular lipase 1 (EXL1) | chr1:28490564-28492298 FORWARD	IVFGDSIVDA
+>AT1G24265.1 | Symbols:  | unknown protein | chr1:8600613-8603630 FORWARD	FATRRSLSDA
+>AT1G28580.1 | Symbols:  | GDSL-motif lipase, putative | chr1:10044603-10046379 REVERSE	ISFGDSIADT
+>AT1G28570.1 | Symbols:  | GDSL-motif lipase, putative | chr1:10041838-10044112 REVERSE	ISFGDSIADT
+>AT1G02520.1 | Symbols: PGP11 | PGP11 (P-GLYCOPROTEIN 11); ATPase, coupled to transmembrane movement of substances | chr1:524134-528745 FORWARD	FVFFSSYALA
+>AT1G80560.1 | Symbols:  | 3-isopropylmalate dehydrogenase, chloroplast, putative | chr1:30287833-30290126 FORWARD	NIFGDILSDE
+>AT1G73770.1 | Symbols:  | unknown protein | chr1:27742215-27742956 FORWARD	FVFFSSESDS
+>AT1G01650.1 | Symbols:  | aspartic-type endopeptidase/ peptidase | chr1:233188-237647 REVERSE	FVFGLLLYSA
+>AT1G28590.1 | Symbols:  | lipase, putative | chr1:10047509-10049300 REVERSE	ISFGDSIADT
+>AT1G24267.1 | Symbols:  | unknown protein | chr1:8604451-8607241 REVERSE	FATRRSLSDA
+>AT1G10090.1 | Symbols:  | unknown protein | chr1:3290572-3295271 REVERSE	FVFFKSRYDA
+>AT1G58430.1 | Symbols: RXF26 | RXF26; carboxylesterase/ hydrolase, acting on ester bonds | chr1:21711684-21712992 REVERSE	LIFGDSTVDT
+>AT1G58520.2 | Symbols: RXW8 | hydrolase, acting on ester bonds / lipase | chr1:21729913-21738165 FORWARD	IVFGDSIMDT
+>AT1G58520.2 | Symbols: RXW8 | hydrolase, acting on ester bonds / lipase | chr1:21729913-21738165 FORWARD	FVFFKTRYDA
+>AT1G71250.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:26860125-26861582 FORWARD	FVLGDSLVDA
+>AT1G62910.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:23299060-23303162 FORWARD	FCHGNRISDA
+>AT1G35530.1 | Symbols:  | DEAD/DEAH box helicase, putative | chr1:13089994-13097078 FORWARD	DVTGDSFEDS
+>AT1G67830.1 | Symbols: ATFXG1 | ATFXG1 (alpha-fucosidase 1); alpha-L-fucosidase/ carboxylesterase | chr1:25431705-25432972 REVERSE	FNFGDSNSDT
+>AT1G55380.1 | Symbols:  | DC1 domain-containing protein | chr1:20676622-20678607 REVERSE	GACGLSLSDA
+>AT1G68330.1 | Symbols:  | unknown protein | chr1:25611242-25612048 FORWARD	FCFGSSCSVQ
+>AT1G71691.2 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:26949395-26951480 REVERSE	FVFGDSLIDN
+>AT1G74460.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:27988150-27989765 REVERSE	FIFGDSLSDV
+>AT1G20120.1 | Symbols:  | family II extracellular lipase, putative | chr1:6975504-6977123 FORWARD	FAFGDSILDT
+>AT1G20130.1 | Symbols:  | hydrolase, acting on ester bonds / lipase/ structural constituent of cell wall | chr1:6977939-6980003 FORWARD	FFFGDSVFDT
+>AT1G33050.2 | Symbols:  | unknown protein | chr1:11968361-11970890 REVERSE	FVTSDSVSKT
+>AT1G71120.1 | Symbols: GLIP6 | GLIP6; carboxylesterase/ lipase | chr1:26821072-26822420 REVERSE	FTFGDSIFDA
+>AT1G63130.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:23412854-23414746 FORWARD	FCHGNRISDA
+>AT1G67780.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; EXPRESSED IN: shoot apex, flower, root, seed; EXPRESSED DURING: petal differentiation and expansio	FVCDESLSTW
+>AT1G06850.1 | Symbols: AtbZIP52 | AtbZIP52 (Arabidopsis thaliana basic leucine zipper 52); DNA binding / transcription factor | chr1:2105233-2106518 FORWARD	FMFMDPLSSA
+>AT1G62330.1 | Symbols:  | unknown protein | chr1:23046965-23050053 FORWARD	FMFSDVWTDA
+>AT1G60280.1 | Symbols: ANAC023 | ANAC023 (Arabidopsis NAC domain containing protein 23); transcription factor | chr1:22226885-22227928 REVERSE	IVNGDSWPDH
+>AT1G63080.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:23388884-23390728 REVERSE	FCHGNRISEA
+>AT1G63070.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr1:23385324-23387167 REVERSE	FCHGNRISEA
+>AT1G75880.2 | Symbols:  | family II extracellular lipase 1 (EXL1) | chr1:28490564-28492298 FORWARD	IVFGDSIVDA
+>AT1G28660.1 | Symbols:  | lipase, putative | chr1:10071856-10073371 REVERSE	ISFGDSIADT
+>AT1G67300.1 | Symbols:  | hexose transporter, putative | chr1:25193832-25196751 REVERSE	FVSGVSNSLA
+>AT1G54790.2 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr1:20441124-20443997 REVERSE	FNFGDSNSDT
+>AT1G14770.2 | Symbols:  | protein binding / zinc ion binding | chr1:5086867-5088437 REVERSE	FMFDPSMSDA
+>AT1G28610.2 | Symbols:  | GDSL-motif lipase, putative | chr1:10053877-10055665 REVERSE	ISFGDSITDT
+>AT1G54080.1 | Symbols: UBP1A | oligouridylate-binding protein, putative | chr1:20183923-20186824 REVERSE	FSAFNSCSDA
+>AT1G33050.1 | Symbols:  | unknown protein | chr1:11968361-11970890 REVERSE	FVTSDSVSKT
+>AT1G24265.2 | Symbols:  | unknown protein | chr1:8600613-8603630 FORWARD	FATRRSLSDA
+>AT1G28570.2 | Symbols:  | GDSL-motif lipase, putative | chr1:10041838-10044112 REVERSE	ISFGDSIADT
+>AT1G06850.2 | Symbols: AtbZIP52 | AtbZIP52 (Arabidopsis thaliana basic leucine zipper 52); DNA binding / transcription factor | chr1:2105233-2106364 FORWARD	FMFMDPLSSA
+>AT1G24267.2 | Symbols:  | unknown protein | chr1:8604451-8607241 REVERSE	FATRRSLSDA
+>AT1G31550.2 | Symbols:  | GDSL-motif lipase, putative | chr1:11295635-11297284 REVERSE	ISFGDSIADT
+>AT1G01920.2 | Symbols:  | SET domain-containing protein | chr1:316204-319507 FORWARD	FVFPQSQDDT
+>AT1G28600.2 | Symbols:  | lipase, putative | chr1:10051604-10053073 REVERSE	ISFGDSIADT
+>AT1G50630.2 | Symbols:  | unknown protein | chr1:18751813-18753569 REVERSE	FLFFDKLWDE
+>AT1G08570.2 | Symbols: ACHT4 | ACHT4 (ATYPICAL CYS HIS RICH THIOREDOXIN 4); oxidoreductase, acting on sulfur group of donors, disulfide as acceptor | chr1:2713059-2714312 FORWARD	IVFGDSQDES
+>AT1G31360.2 | Symbols: RECQL2 | RECQL2 (ARABIDOPSIS RECQ HELICASE L2); 3'-5' DNA helicase/ ATP-dependent helicase/ four-way junction helicase/ protein binding | chr1:11233174-11237412 FORWARD	FVIHHSLSKS
+>AT1G04960.2 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: endomembrane system; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protei	WWKGWSFSDA
+>AT1G73770.2 | Symbols:  | unknown protein | chr1:27742215-27742956 FORWARD	FVFFSSESDS
+>AT1G75890.2 | Symbols:  | family II extracellular lipase 2 (EXL2) | chr1:28493051-28495047 FORWARD	IVFGDSIVDA
+>AT1G75920.2 | Symbols:  | family II extracellular lipase 5 (EXL5) | chr1:28505576-28507023 FORWARD	LAFGDSMVDT
+>AT1G75920.3 | Symbols:  | family II extracellular lipase 5 (EXL5) | chr1:28505576-28507023 FORWARD	LAFGDSMVDT
+>AT1G77300.2 | Symbols: EFS, SDG8 | EFS (EARLY FLOWERING IN SHORT DAYS); histone methyltransferase(H3-K36 specific) / histone methyltransferase(H3-K4 specific) | chr1:29040936-29048810 REVERSE	FSFPDSLLDS
+>AT1G20132.1 | Symbols:  | hydrolase, acting on ester bonds / lipase | chr1:6981358-6983495 FORWARD	FFFGDSIIDT
+>AT1G33050.3 | Symbols:  | unknown protein | chr1:11968520-11970890 REVERSE	FVTSDSVSKT
+>AT1G61140.2 | Symbols: EDA16 | EDA16 (embryo sac development arrest 16); ATP binding / DNA binding / helicase/ protein binding / zinc ion binding | chr1:22536293-22540610 REVERSE	FNNSNSLSDS
+>AT1G61140.3 | Symbols: EDA16 | EDA16 (embryo sac development arrest 16); ATP binding / DNA binding / helicase/ nucleic acid binding / protein binding / zinc ion binding | chr1:22535038-22539756 REVERSE	FNNSNSLSDS
+>AT1G14650.2 | Symbols:  | SWAP (Suppressor-of-White-APricot)/surp domain-containing protein / ubiquitin family protein | chr1:5028077-5030520 FORWARD	FTFFTSLVDA
+>AT1G58520.1 | Symbols: RXW8 | unknown protein | chr1:21733543-21738165 FORWARD	FVFFKTRYDA
+>AT1G58520.3 | Symbols: RXW8 | hydrolase, acting on ester bonds / lipase | chr1:21729913-21731344 FORWARD	IVFGDSIMDT
+>AT1G70730.2 | Symbols:  | phosphoglucomutase, cytoplasmic, putative / glucose phosphomutase, putative | chr1:26669020-26673166 REVERSE	FIFGVSLVST
+>AT2G21050.1 | Symbols:  | amino acid permease, putative | chr2:9034289-9036439 FORWARD	FWHGGSAYDA
+>AT2G26900.1 | Symbols:  | bile acid:sodium symporter family protein | chr2:11475156-11477870 REVERSE	FSFGESTSRT
+>AT2G42550.1 | Symbols:  | protein kinase family protein | chr2:17713196-17714230 FORWARD	FSFMDSYKDR
+>AT2G38770.1 | Symbols: EMB2765 | EMB2765 (EMBRYO DEFECTIVE 2765) | chr2:16203185-16210253 REVERSE	FPFKDFFSDT
+>AT2G23540.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:10024366-10026058 FORWARD	FIFGDSLVDA
+>AT2G42700.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: vesicle-mediated transport, vesicle docking during exocytosis; LOCATED IN: cellular_component unknown; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 14 growth 	CCHGDSLFDR
+>AT2G44980.1 | Symbols:  | transcription regulatory protein SNF2, putative | chr2:18552440-18556669 REVERSE	FVFGDCTNPS
+>AT2G18080.1 | Symbols: EDA2 | EDA2 (embryo sac development arrest 2); serine-type peptidase | chr2:7857198-7859715 FORWARD	FFFGISYSGA
+>AT2G17340.1 | Symbols:  | pantothenate kinase-related | chr2:7541615-7544089 REVERSE	FPQVVSLSDA
+>AT2G47410.1 | Symbols:  | nucleotide binding | chr2:19449133-19456991 FORWARD	FVTGSSDSNA
+>AT2G02640.1 | Symbols:  | DC1 domain-containing protein | chr2:732388-734271 FORWARD	FCHGDEVSDS
+>AT2G02630.1 | Symbols:  | DC1 domain-containing protein | chr2:724163-725485 FORWARD	FCHGDEASDS
+>AT2G17320.1 | Symbols:  | pantothenate kinase-related | chr2:7533537-7535876 REVERSE	FPEVVSLSDA
+>AT2G04570.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:1594747-1596129 FORWARD	IVFGDSSVDA
+>AT2G41920.1 | Symbols:  | protein kinase family protein | chr2:17499448-17500404 FORWARD	YAFGGSLSDF
+>AT2G43980.1 | Symbols: AtITPK4 | AtITPK4 (inositol 1,3,4-trisphosphate 5/6-kinase 4); ATP binding / catalytic/ inositol tetrakisphosphate 1-kinase/ inositol-1,3,4-trisphosphate 5/6-kinase/ magnesium ion binding | chr2:18208437-18211604 REVERSE	DVEGDSLEDP
+>AT2G17000.1 | Symbols:  | mechanosensitive ion channel domain-containing protein / MS ion channel domain-containing protein | chr2:7388893-7392105 REVERSE	FMFGNSLKTV
+>AT2G42330.1 | Symbols:  | D111/G-patch domain-containing protein | chr2:17631831-17634089 REVERSE	FQGWDPLSDA
+>AT2G41690.1 | Symbols: AT-HSFB3, HSFB3 | AT-HSFB3; DNA binding / transcription factor | chr2:17381723-17382577 FORWARD	FMIGNSTSTA
+>AT2G19010.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:8243089-8245378 FORWARD	FVFGDSMSDN
+>AT2G23200.1 | Symbols:  | protein kinase family protein | chr2:9879351-9881855 FORWARD	FCFQDSVSLF
+>AT2G19060.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:8257031-8259815 FORWARD	FVFGDSVFDN
+>AT2G19050.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:8253416-8255534 FORWARD	FVFGDSVFDN
+>AT2G45000.1 | Symbols: EMB2766 | EMB2766 (EMBRYO DEFECTIVE 2766); structural constituent of nuclear pore | chr2:18564156-18567632 FORWARD	FGFGSSVSST
+>AT2G23100.1 | Symbols:  | DC1 domain-containing protein | chr2:9837564-9839699 REVERSE	DVCGLSLNDA
+>AT2G33260.1 | Symbols:  | tryptophan/tyrosine permease family protein | chr2:14100840-14102252 REVERSE	NLAGDSVSDA
+>AT2G46330.2 | Symbols: AGP16, ATAGP16 | AGP16 (ARABINOGALACTAN PROTEIN 16) | chr2:19018935-19019108 REVERSE	FVFAVILSLA
+>AT2G23970.1 | Symbols:  | defense-related protein, putative | chr2:10199698-10201081 FORWARD	FVISGSLNDA
+>AT2G40250.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:16813330-16815251 FORWARD	YAFGDSTVDS
+>AT2G43160.3 | Symbols:  | epsin N-terminal homology (ENTH) domain-containing protein | chr2:17948884-17953267 FORWARD	FGFGDSFSAV
+>AT2G35140.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: Development and cell death domain (InterPro:IPR013989), Kelch related 	IPFGDYVSDA
+>AT2G30310.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:12923055-12924371 FORWARD	LIFGDSTVDT
+>AT2G16920.1 | Symbols: UBC23, PFU2 | UBC23 (UBIQUITIN-CONJUGATING ENZYME 23); small conjugating protein ligase/ ubiquitin-protein ligase | chr2:7334559-7338827 REVERSE	EVAGDSDSDS
+>AT2G27330.1 | Symbols:  | RNA recognition motif (RRM)-containing protein | chr2:11695350-11696563 REVERSE	FVKGISFSST
+>AT2G38390.1 | Symbols:  | peroxidase, putative | chr2:16079726-16081381 FORWARD	FVFFGAFVDA
+>AT2G27360.1 | Symbols:  | lipase, putative | chr2:11706233-11707905 FORWARD	ISFGDSITDT
+>AT2G30220.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:12891266-12892537 REVERSE	LIFGDSTADT
+>AT2G11520.1 | Symbols: CRCK3 | CRCK3; ATP binding / kinase/ protein kinase/ protein serine/threonine kinase | chr2:4619145-4621448 FORWARD	CIFEDSFSDD
+>AT2G24560.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds | chr2:10431537-10432933 FORWARD	LIFGDSTVDT
+>AT2G35960.1 | Symbols: NHL12 | NHL12 | chr2:15107150-15107782 FORWARD	FVYGNSVPIA
+>AT2G42990.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:17879056-17880200 FORWARD	IVFGDSSVDS
+>AT2G31540.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:13430733-13432045 REVERSE	LIFGDSTVDT
+>AT2G04020.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:1274427-1275524 FORWARD	YVIGDSLVDP
+>AT2G28540.1 | Symbols:  | nucleic acid binding / nucleotide binding / protein binding / zinc ion binding | chr2:12218652-12223446 FORWARD	TVFGSSYSDS
+>AT2G34940.1 | Symbols:  | vacuolar sorting receptor, putative | chr2:14740497-14743314 FORWARD	RSFGDSLKKA
+>AT2G03980.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr2:1260907-1262408 FORWARD	YVIGDSLVDS
+>AT2G05970.1 | Symbols:  | F-box family protein | chr2:2308651-2309784 REVERSE	FVFQDFLPDR
+>AT2G46620.1 | Symbols:  | AAA-type ATPase family protein | chr2:19139071-19140546 REVERSE	FQNGASLSPA
+>AT2G23390.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF482 (Int	FVFDHSWADA
+>AT2G36910.1 | Symbols: ATPGP1, PGP1, ABCB1 | ABCB1 (ATP BINDING CASSETTE SUBFAMILY B1); ATPase, coupled to transmembrane movement of substances / auxin efflux transmembrane transporter/ calmodulin binding | chr2:15502162-15507050 FORWARD	FVHGCSLPLF
+>AT2G43160.2 | Symbols:  | epsin N-terminal homology (ENTH) domain-containing protein | chr2:17948884-17953267 FORWARD	FGFGDSFSAV
+>AT2G43160.1 | Symbols:  | epsin N-terminal homology (ENTH) domain-containing protein | chr2:17948884-17953267 FORWARD	FGFGDSFSAV
+>AT2G46330.1 | Symbols: AGP16, ATAGP16 | AGP16 (ARABINOGALACTAN PROTEIN 16) | chr2:19018730-19019108 REVERSE	FVFAVILSLA
+>AT2G44980.2 | Symbols:  | transcription regulatory protein SNF2, putative | chr2:18552343-18556669 REVERSE	FVFGDCTNPS
+>AT2G43160.4 | Symbols:  | epsin N-terminal homology (ENTH) domain-containing protein | chr2:17948884-17952920 FORWARD	FGFGDSFSAV
+>AT2G28540.2 | Symbols:  | nucleic acid binding / nucleotide binding / protein binding / zinc ion binding | chr2:12218652-12223594 FORWARD	TVFGSSYSDS
+>AT2G36325.1 | Symbols:  | hydrolase, acting on ester bonds | chr2:15231409-15233224 FORWARD	FVFGDSYADT
+>AT2G42330.2 | Symbols:  | D111/G-patch domain-containing protein | chr2:17631831-17634089 REVERSE	FQGWDPLSDA
+>AT2G35140.2 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: Development and cell death domain (InterPro:IPR013989), Kelch related 	IPFGDYVSDA
+>AT2G07521.1 | Symbols:  | unknown protein | chr2:3136617-3136766 FORWARD	WCFGCNLSEA
+>AT2G35140.3 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: Development and cell death domain (InterPro:IPR013989), Kelch related 	IPFGDYVSDA
+>AT3G46020.1 | Symbols:  | RNA-binding protein, putative | chr3:16912511-16913250 REVERSE	FITFDSEDDA
+>AT3G09930.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:3053356-3055203 FORWARD	FVFGDSYADT
+>AT3G04880.1 | Symbols: DRT102 | DRT102 (DNA-DAMAGE-REPAIR/TOLERATION 2) | chr3:1346431-1347363 REVERSE	DDFGASLKDA
+>AT3G16370.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:5556928-5558351 FORWARD	MTFGDSVVDV
+>AT3G62280.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds | chr3:23049484-23051116 REVERSE	INFGDSNSDT
+>AT3G05740.1 | Symbols: RECQI1 | RECQI1 (Arabidopsis RecQ helicase l1); ATP binding / ATP-dependent helicase/ helicase/ nucleic acid binding | chr3:1698180-1701228 FORWARD	FVIHNTLSKA
+>AT3G04290.1 | Symbols: ATLTL1, LTL1 | LTL1 (LI-TOLERANT LIPASE 1); carboxylesterase/ hydrolase, acting on ester bonds | chr3:1133620-1136223 REVERSE	FVFGDSLVDN
+>AT3G16090.1 | Symbols:  | zinc finger (C3HC4-type RING finger) family protein | chr3:5456513-5458694 FORWARD	FVFLGSLREA
+>AT3G09850.1 | Symbols:  | D111/G-patch domain-containing protein | chr3:3023397-3025742 REVERSE	FVEGGILSDY
+>AT3G49290.1 | Symbols: ABIL2 | ABIL2 (ABL INTERACTOR-LIKE PROTEIN 2) | chr3:18273407-18275221 FORWARD	KYFGSSLEDA
+>AT3G14690.1 | Symbols: CYP72A15 | CYP72A15; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding | chr3:4937410-4939310 FORWARD	QVFGDKEPDA
+>AT3G49530.1 | Symbols: anac062 | anac062 (Arabidopsis NAC domain containing protein 62); transcription factor | chr3:18362639-18364717 REVERSE	VISGDSHSDA
+>AT3G22810.1 | Symbols:  | phosphoinositide binding | chr3:8068595-8071559 FORWARD	FVSGNPFSFA
+>AT3G10740.1 | Symbols: ASD1, ARAF1, ARAF, ATASD1 | ASD1 (ALPHA-L-ARABINOFURANOSIDASE 1); alpha-N-arabinofuranosidase/ hydrolase, acting on glycosyl bonds / xylan 1,4-beta-xylosidase | chr3:3361031-3364573 REVERSE	FVEGEWLSNA
+>AT3G50400.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:18704797-18706437 FORWARD	FVFGDSLVDA
+>AT3G14460.1 | Symbols:  | disease resistance protein (NBS-LRR class), putative | chr3:4851990-4856264 REVERSE	FSFSRSQCDA
+>AT3G48190.1 | Symbols: ATM, ATATM | ATM (ATAXIA-TELANGIECTASIA MUTATED); 1-phosphatidylinositol-3-phosphate 5-kinase | chr3:17797628-17828361 FORWARD	FPFFRGLSDS
+>AT3G07180.1 | Symbols:  | GPI transamidase component PIG-S-related | chr3:2282455-2285475 REVERSE	FHDIDSLSDQ
+>AT3G06630.1 | Symbols:  | protein kinase family protein | chr3:2070388-2073791 REVERSE	DVFGDTLSDH
+>AT3G10410.1 | Symbols: scpl49 | scpl49 (serine carboxypeptidase-like 49); serine-type carboxypeptidase | chr3:3235518-3238063 REVERSE	FVFPNILADG
+>AT3G14810.1 | Symbols: MSL5 | MSL5 (MECHANOSENSITIVE CHANNEL OF SMALL CONDUCTANCE-LIKE 5) | chr3:4971223-4974216 REVERSE	FVFGNSCKTI
+>AT3G14820.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds / lipase | chr3:4978726-4980241 FORWARD	IVFGDSIMDT
+>AT3G08010.1 | Symbols: ATAB2 | ATAB2; RNA binding | chr3:2556046-2557426 FORWARD	FVFGASLDLD
+>AT3G05970.1 | Symbols: LACS6, ATLACS6 | LACS6 (long-chain acyl-CoA synthetase 6); long-chain-fatty-acid-CoA ligase | chr3:1786510-1791746 REVERSE	FIYGDSFNSS
+>AT3G14360.1 | Symbols:  | lipase class 3 family protein | chr3:4791596-4793534 FORWARD	FVFTDKQKDA
+>AT3G06640.1 | Symbols:  | protein kinase family protein | chr3:2074538-2078317 REVERSE	GVFGATLSDH
+>AT3G26270.1 | Symbols: CYP71B25 | CYP71B25; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding | chr3:9627602-9629195 REVERSE	PVFGQSFSDN
+>AT3G07800.1 | Symbols:  | thymidine kinase, putative | chr3:2489944-2490935 REVERSE	DVTGDFLSDL
+>AT3G19390.1 | Symbols:  | cysteine proteinase, putative / thiol protease, putative | chr3:6723024-6724768 FORWARD	YKVGDSLPDA
+>AT3G14210.1 | Symbols: ESM1 | ESM1 (epithiospecifier modifier 1); carboxylesterase/ hydrolase, acting on ester bonds | chr3:4729886-4731562 FORWARD	FTFGDSYYDA
+>AT3G47450.1 | Symbols: ATNOS1, NOS1, ATNOA1, NOA1, RIF1 | NOA1 (NO ASSOCIATED 1); GTPase/ nitric-oxide synthase | chr3:17483195-17486249 REVERSE	FVGGEKLYDT
+>AT3G24340.1 | Symbols: chr40 | chr40 (chromatin remodeling 40); ATP binding / DNA binding / helicase/ nucleic acid binding | chr3:8832085-8835722 REVERSE	FDFGDRVCDF
+>AT3G59040.2 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr3:21821495-21823919 REVERSE	FVEGDKFKEA
+>AT3G43570.1 | Symbols:  | GDSL-motif lipase, putative | chr3:15473345-15474765 FORWARD	IVFGDSIMDT
+>AT3G15970.1 | Symbols:  | Ran-binding protein 1 domain-containing protein / RanBP1 domain-containing protein | chr3:5408982-5410379 REVERSE	FACVNSVSDA
+>AT3G48460.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:17949496-17951082 FORWARD	YAFGDSFTDT
+>AT3G14660.1 | Symbols: CYP72A13 | CYP72A13; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding | chr3:4924960-4926911 FORWARD	QVFGDKEPDA
+>AT3G53100.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:19684989-19686542 REVERSE	IMFGDSIVDV
+>AT3G19780.1 | Symbols:  | LOCATED IN: endomembrane system; CONTAINS InterPro DOMAIN/s: Protein of unknown function DUF179 (InterPro:IPR003774), Thioredoxin fold (InterPro:IPR012335), Thioredoxin-like fold (InterPro:IPR012336); BEST Arabidopsis tha	FNFGKSDSWA
+>AT3G55800.1 | Symbols: SBPASE | SBPASE (sedoheptulose-bisphosphatase); phosphoric ester hydrolase/ sedoheptulose-bisphosphatase | chr3:20709640-20711421 FORWARD	SIFGDSLRLA
+>AT3G14100.1 | Symbols:  | oligouridylate-binding protein, putative | chr3:4673027-4675950 FORWARD	FSVFSSCSDA
+>AT3G05180.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:1468599-1470529 REVERSE	FNFGDSNSDT
+>AT3G10550.1 | Symbols:  | phosphatase/ protein tyrosine phosphatase | chr3:3293210-3298452 REVERSE	FMIPKSISDA
+>AT3G59180.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; CONTAINS InterPro DOMAIN/s: FBD-like (InterPro:IPR006566), Leucine-rich repeat 2 (InterPro:IPR013101); BEST Arabidopsis thaliana protein m	KVNLDSLVDA
+>AT3G47660.1 | Symbols:  | Ran GTPase binding / chromatin binding / zinc ion binding | chr3:17571192-17574805 FORWARD	FVWGESIGDG
+>AT3G54270.1 | Symbols:  | sucrose-phosphatase 3 (SPP3) | chr3:20087419-20089735 REVERSE	LVCGDSGNDA
+>AT3G01345.1 | Symbols:  | Expressed protein | chr3:129319-130719 FORWARD	FVWLDLVSDA
+>AT3G01460.1 | Symbols: MBD9, ATMBD9 | MBD9; DNA binding / methyl-CpG binding | chr3:173316-182038 FORWARD	VVEEDSLSDA
+>AT3G57570.1 | Symbols:  | binding | chr3:21312598-21320105 FORWARD	FLSGDSVNDY
+>AT3G14220.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:4733039-4734483 FORWARD	FTFGDSSYDV
+>AT3G23120.1 | Symbols: AtRLP38 | AtRLP38 (Receptor Like Protein 38); kinase/ protein binding | chr3:8227222-8229576 REVERSE	FVFFLDLSDN
+>AT3G05240.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr3:1493684-1495381 REVERSE	FVNNNRFSDA
+>AT3G43550.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds / lipase | chr3:15448635-15449870 FORWARD	IVFGDSIMDT
+>AT3G54230.1 | Symbols:  | nucleic acid binding / nucleotide binding / zinc ion binding | chr3:20073872-20080142 FORWARD	FVHFYSVEDA
+>AT3G14650.1 | Symbols: CYP72A11 | CYP72A11; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding | chr3:4922206-4924165 FORWARD	QVFGDKEPDA
+>AT3G57060.1 | Symbols:  | binding | chr3:21115078-21121051 REVERSE	KIHQDSLSDS
+>AT3G63440.1 | Symbols: ATCKX6, CKX6, ATCKX7 | CKX6 (CYTOKININ OXIDASE/DEHYDROGENASE 6); cytokinin dehydrogenase | chr3:23424291-23426265 FORWARD	GVFGNILTDT
+>AT3G24240.1 | Symbols:  | leucine-rich repeat transmembrane protein kinase, putative | chr3:8780551-8784150 FORWARD	FIFCFSLSDA
+>AT3G20300.1 | Symbols:  | unknown protein | chr3:7079832-7081809 REVERSE	FLFFDKLWDE
+>AT3G50340.1 | Symbols:  | unknown protein | chr3:18665333-18666544 REVERSE	FCCGSDLSDF
+>AT3G06360.1 | Symbols: AGP27, ATAGP27 | AGP27 | chr3:1928976-1929353 FORWARD	FIFLSSLSLS
+>AT3G26430.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr3:9674419-9675889 FORWARD	FNFGDSNSDT
+>AT3G60980.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr3:22565440-22566678 REVERSE	SVFVDSLADD
+>AT3G14680.1 | Symbols: CYP72A14 | CYP72A14; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding | chr3:4934478-4936462 FORWARD	QVFGDKQPDT
+>AT3G25490.1 | Symbols:  | wall-associated kinase, putative | chr3:9241725-9243113 FORWARD	FITGGSLFDH
+>AT3G27950.1 | Symbols:  | early nodule-specific protein, putative | chr3:10378048-10379771 FORWARD	FNFGDSNSDT
+>AT3G25500.1 | Symbols: AFH1, FH1, AHF1, ATFH1 | AFH1 (FORMIN HOMOLOGY 1); actin binding / actin filament binding / protein binding | chr3:9251320-9254826 REVERSE	FVRSPSLSLA
+>AT3G14225.1 | Symbols: GLIP4 | GLIP4; carboxylesterase/ lipase | chr3:4734616-4735993 REVERSE	FAFGDSLFEA
+>AT3G56690.1 | Symbols: CIP111 | CIP111 (CAM INTERACTING PROTEIN 111); ATPase/ calmodulin binding | chr3:20993869-20998531 REVERSE	PVSGPSLSDQ
+>AT3G59040.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr3:21821495-21824233 REVERSE	FVEGDKFKEA
+>AT3G47450.2 | Symbols: ATNOS1, NOS1, ATNOA1, NOA1, RIF1 | NOA1 (NO ASSOCIATED 1); GTPase/ nitric-oxide synthase | chr3:17483195-17486249 REVERSE	FVGGEKLYDT
+>AT3G07180.2 | Symbols:  | GPI transamidase component PIG-S-related | chr3:2282455-2285475 REVERSE	FHDIDSLSDQ
+>AT3G49290.2 | Symbols: ABIL2 | ABIL2 (ABL INTERACTOR-LIKE PROTEIN 2) | chr3:18273407-18275221 FORWARD	KYFGSSLEDA
+>AT4G03820.1 | Symbols:  | unknown protein | chr4:1772114-1774380 REVERSE	FLFFDKLKDV
+>AT4G28260.1 | Symbols:  | unknown protein | chr4:14005048-14006762 FORWARD	FVFFCTLCLA
+>AT4G01720.1 | Symbols: WRKY47, AtWRKY47 | WRKY47; transcription factor | chr4:744949-748219 FORWARD	FLHGDSDSKD
+>AT4G28330.1 | Symbols:  | unknown protein | chr4:14022452-14022928 REVERSE	FVFFNSYSSS
+>AT4G28340.1 | Symbols:  | unknown protein | chr4:14024630-14025109 REVERSE	FVFFNSYYSS
+>AT4G27100.1 | Symbols:  | RAB GTPase activator | chr4:13595845-13598534 FORWARD	FSFCDSLYLW
+>AT4G24700.1 | Symbols:  | unknown protein | chr4:12744807-12745238 REVERSE	WEFGQSLWDP
+>AT4G01820.1 | Symbols: PGP3, MDR3 | PGP3 (P-GLYCOPROTEIN 3); ATPase, coupled to transmembrane movement of substances | chr4:780734-785329 REVERSE	FVFFCSYALA
+>AT4G35785.1 | Symbols:  | nucleic acid binding / nucleotide binding | chr4:16953211-16955127 REVERSE	FVTMSSLKDA
+>AT4G35520.1 | Symbols: MLH3, ATMLH3 | MLH3 (MUTL PROTEIN HOMOLOG 3); ATP binding / mismatched DNA binding | chr4:16865488-16871527 FORWARD	IMFGDSLLPS
+>AT4G35590.1 | Symbols:  | RWP-RK domain-containing protein | chr4:16892909-16894865 FORWARD	FCFCDSWSSS
+>AT4G13810.1 | Symbols: AtRLP47 | AtRLP47 (Receptor Like Protein 47); protein binding | chr4:8005062-8007287 REVERSE	FSPGDSLSFS
+>AT4G13930.1 | Symbols: SHM4 | SHM4 (serine hydroxymethyltransferase 4); catalytic/ glycine hydroxymethyltransferase/ pyridoxal phosphate binding | chr4:8048013-8050021 REVERSE	AVFGDSSALA
+>AT4G13920.1 | Symbols: AtRLP50 | AtRLP50 (Receptor Like Protein 50); kinase/ protein binding | chr4:8043861-8046536 FORWARD	FSPGDSLSFS
+>AT4G13750.1 | Symbols:  | ATP binding | chr4:7975191-7987558 FORWARD	IVLSDSLSRA
+>AT4G16230.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds | chr4:9185298-9186447 FORWARD	FVFGDSLVDA
+>AT4G16220.1 | Symbols:  | hydrolase, acting on ester bonds | chr4:9182283-9183922 FORWARD	FVFGDSLVEV
+>AT4G28780.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr4:14215603-14217159 FORWARD	FVFGDSLVDS
+>AT4G30510.1 | Symbols: ATATG18B, ATG18B | AtATG18b | chr4:14905299-14906915 REVERSE	SVLPDSVSDA
+>AT4G36190.1 | Symbols:  | serine-type peptidase | chr4:17124052-17126643 FORWARD	FFFGVSYSGA
+>AT4G36195.1 | Symbols:  | serine carboxypeptidase S28 family protein | chr4:17127202-17129787 FORWARD	FFFGASYSGA
+>AT4G30540.1 | Symbols:  | glutamine amidotransferase class-I domain-containing protein | chr4:14923327-14925075 FORWARD	FVISGSLHDA
+>AT4G23010.1 | Symbols: ATUTR2, UTR2 | UDP-galactose transporter-related | chr4:12060318-12062486 REVERSE	SLFGISLSDK
+>AT4G17565.1 | Symbols:  | F-box family protein | chr4:9782508-9783644 REVERSE	WVKVDSLGDA
+>AT4G14420.1 | Symbols:  | lesion inducing protein-related | chr4:8302171-8303738 REVERSE	FVFGSSLGAY
+>AT4G23100.1 | Symbols: RML1, PAD2, GSH1, CAD2, ATECS1, GSHA | GSH1 (GLUTAMATE-CYSTEINE LIGASE); glutamate-cysteine ligase | chr4:12103458-12106751 REVERSE	FVFDDSFGFE
+>AT4G29140.1 | Symbols:  | MATE efflux protein-related | chr4:14369148-14370746 FORWARD	YVFPSSLSFA
+>AT4G00800.1 | Symbols:  | binding / protein binding / zinc ion binding | chr4:337114-345581 REVERSE	FLVSDSDSDS
+>AT4G01130.1 | Symbols:  | acetylesterase, putative | chr4:485868-488007 FORWARD	FNFGDSNSDT
+>AT4G01210.1 | Symbols:  | transferase, transferring glycosyl groups | chr4:507738-512362 REVERSE	LVFGDLLADP
+>AT4G19910.1 | Symbols:  | Toll-Interleukin-Resistance (TIR) domain-containing protein | chr4:10795869-10796687 REVERSE	FVFTDWMSSV
+>AT4G32200.1 | Symbols: ASY2 | ASY2; DNA binding | chr4:15548840-15554962 FORWARD	FSFSYSDSDS
+>AT4G21700.1 | Symbols:  | unknown protein | chr4:11529956-11532844 FORWARD	LNFSDSLSNA
+>AT4G30140.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr4:14738603-14740548 REVERSE	FVFGDSVFDN
+>AT4G32800.1 | Symbols:  | AP2 domain-containing transcription factor TINY, putative | chr4:15819812-15820477 FORWARD	FVIFDSLEDL
+>AT4G18970.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr4:10389308-10390808 REVERSE	FIFGDSLVDS
+>AT4G26790.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr4:13487859-13489149 FORWARD	IVFGDSTVDS
+>AT4G33010.1 | Symbols: AtGLDP1 | AtGLDP1 (Arabidopsis thaliana glycine decarboxylase P-protein 1); catalytic/ glycine dehydrogenase (decarboxylating)/ pyridoxal phosphate binding | chr4:15926852-15931150 REVERSE	FDHIDSLIDA
+>AT4G23820.1 | Symbols:  | glycoside hydrolase family 28 protein / polygalacturonase (pectinase) family protein | chr4:12397217-12400050 REVERSE	FVSSSSLGDS
+>AT4G23820.1 | Symbols:  | glycoside hydrolase family 28 protein / polygalacturonase (pectinase) family protein | chr4:12397217-12400050 REVERSE	FIHGDGLRDV
+>AT4G10950.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr4:6711502-6713512 REVERSE	FVFGDSSVDS
+>AT4G35785.2 | Symbols:  | nucleic acid binding / nucleotide binding | chr4:16953211-16955127 REVERSE	FVTMSSLKDA
+>AT4G26790.2 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr4:13487859-13489149 FORWARD	IVFGDSTVDS
+>AT4G30510.2 | Symbols: ATATG18B | AtATG18b | chr4:14905664-14906915 REVERSE	SVLPDSVSDA
+>AT4G03820.2 | Symbols:  | unknown protein | chr4:1772163-1774380 REVERSE	FLFFDKLKDV
+>AT4G36195.2 | Symbols:  | serine carboxypeptidase S28 family protein | chr4:17127202-17129787 FORWARD	FFFGASYSGA
+>AT4G23100.2 | Symbols: RML1, PAD2, GSH1, CAD2 | GSH1 (GLUTAMATE-CYSTEINE LIGASE); glutamate-cysteine ligase | chr4:12103779-12106751 REVERSE	FVFDDSFGFE
+>AT4G27100.2 | Symbols:  | RAB GTPase activator | chr4:13595845-13598620 FORWARD	FSFCDSLYLW
+>AT4G23010.2 | Symbols: ATUTR2, UTR2 | UDP-galactose transporter-related | chr4:12060318-12062486 REVERSE	SLFGISLSDK
+>AT4G28260.2 | Symbols:  | unknown protein | chr4:14005048-14006762 FORWARD	FVFFCTLCLA
+>AT4G33010.2 | Symbols: AtGLDP1 | AtGLDP1 (Arabidopsis thaliana glycine decarboxylase P-protein 1); catalytic/ glycine dehydrogenase (decarboxylating)/ pyridoxal phosphate binding | chr4:15927133-15931150 REVERSE	FDHIDSLIDA
+>AT4G35785.3 | Symbols:  | nucleic acid binding / nucleotide binding | chr4:16953708-16955127 REVERSE	FVTMSSLKDA
+>AT5G08230.1 | Symbols:  | PWWP domain-containing protein | chr5:2643846-2649788 REVERSE	FSFGMSDSSS
+>AT5G16120.1 | Symbols:  | hydrolase, alpha/beta fold family protein | chr5:5266048-5267775 FORWARD	FLFGQSMGGA
+>AT5G49490.1 | Symbols: AGL83 | AGL83 (AGAMOUS-LIKE 83); DNA binding / transcription factor | chr5:20075328-20076185 FORWARD	YSFGHSSVDA
+>AT5G58450.1 | Symbols:  | binding | chr5:23626826-23632071 FORWARD	KMLGCSLSDA
+>AT5G22290.1 | Symbols: anac089 | anac089 (Arabidopsis NAC domain containing protein 89); transcription factor | chr5:7376044-7377498 REVERSE	CVKGVSLDDA
+>AT5G11900.1 | Symbols:  | eukaryotic translation initiation factor SUI1 family protein | chr5:3834154-3836023 FORWARD	ELFGIKLSDA
+>AT5G03600.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:912807-914226 FORWARD	FVFGDSYADT
+>AT5G03610.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:915650-918326 FORWARD	FVFGDSYADT
+>AT5G22480.1 | Symbols:  | zinc finger (ZPR1-type) family protein | chr5:7451643-7456168 REVERSE	FTFGDSMEES
+>AT5G56560.1 | Symbols:  | F-box family protein | chr5:22899724-22901985 FORWARD	FVYGSFLSND
+>AT5G52850.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr5:21414935-21417616 REVERSE	MVVGNSLVDA
+>AT5G48730.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr5:19763152-19765136 FORWARD	LVFFNCLVDA
+>AT5G26710.1 | Symbols:  | glutamate-tRNA ligase, putative / glutamyl-tRNA synthetase, putatuve / GluRS, putative | chr5:9305673-9308247 FORWARD	FLVGHSLSIA
+>AT5G03980.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:1074205-1075289 REVERSE	YQFGDSISDT
+>AT5G03900.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast envelope; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: FeS c	FVFGDGDPNQ
+>AT5G47580.1 | Symbols:  | unknown protein | chr5:19294948-19297194 REVERSE	FCHGDSDYKW
+>AT5G19730.1 | Symbols:  | pectinesterase family protein | chr5:6670562-6673202 FORWARD	FIFGNALSLY
+>AT5G02190.1 | Symbols: ATASP38, PCS1 | PCS1 (PROMOTION OF CELL SURVIVAL 1); aspartic-type endopeptidase/ peptidase | chr5:435322-436683 FORWARD	FHFGNSTNDS
+>AT5G11780.1 | Symbols:  | unknown protein | chr5:3793928-3795983 FORWARD	FVFSGSLVNG
+>AT5G26120.1 | Symbols: ATASD2, ASD2 | ASD2 (ALPHA-L-ARABINOFURANOSIDASE 2); alpha-N-arabinofuranosidase/ hydrolase, acting on glycosyl bonds | chr5:9121835-9125399 REVERSE	FVEGDWLGNA
+>AT5G49420.1 | Symbols:  | MADS-box protein (AGL84) | chr5:20035166-20036170 REVERSE	YSFGHSSVDA
+>AT5G02180.1 | Symbols:  | amino acid transporter family protein | chr5:431034-433544 FORWARD	SSFCDSLSSS
+>AT5G49110.1 | Symbols:  | unknown protein | chr5:19900203-19905925 FORWARD	FTFQDSASQA
+>AT5G54780.1 | Symbols:  | RAB GTPase activator | chr5:22248696-22251692 REVERSE	FSFCDSLYLW
+>AT5G03540.1 | Symbols: ATEXO70A1 | ATEXO70A1 (exocyst subunit EXO70 family protein A1); protein binding | chr5:889606-893916 FORWARD	FRGFDSLSDQ
+>AT5G40820.1 | Symbols: ATRAD3, ATR, ATATR | ATRAD3; binding / inositol or phosphatidylinositol kinase/ phosphotransferase, alcohol group as acceptor / protein serine/threonine kinase | chr5:16343860-16353847 REVERSE	DIFSWSLSDD
+>AT5G01830.1 | Symbols:  | armadillo/beta-catenin repeat family protein / U-box domain-containing protein | chr5:320983-323007 FORWARD	FRRHQSLSDA
+>AT5G45920.1 | Symbols:  | carboxylesterase/ hydrolase/ hydrolase, acting on ester bonds | chr5:18622822-18624677 FORWARD	FLFGDSITEE
+>AT5G45960.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:18637174-18640319 REVERSE	LVFGDSTVDP
+>AT5G45950.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:18634155-18636512 FORWARD	LVFGDSSVDP
+>AT5G22810.1 | Symbols:  | GDSL-motif lipase, putative | chr5:7621568-7623367 FORWARD	FIFGDSVVDV
+>AT5G40990.1 | Symbols: GLIP1 | GLIP1 (GDSL LIPASE1); carboxylesterase/ lipase | chr5:16418920-16420400 FORWARD	FVFGDSVFDA
+>AT5G01640.1 | Symbols: PRA1.B5 | PRA1.B5 (PRENYLATED RAB ACCEPTOR 1.B5) | chr5:241442-242113 REVERSE	FTKPDSLSEA
+>AT5G40910.1 | Symbols:  | disease resistance protein (TIR-NBS-LRR class), putative | chr5:16395507-16399129 FORWARD	FVSGGSLSEH
+>AT5G55050.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:22337745-22339741 FORWARD	YVFGDSLVDA
+>AT5G62650.1 | Symbols:  | unknown protein | chr5:25152873-25155872 REVERSE	FPFGDWISHS
+>AT5G27600.1 | Symbols: LACS7, ATLACS7 | LACS7 (LONG-CHAIN ACYL-COA SYNTHETASE 7); long-chain-fatty-acid-CoA ligase/ protein binding | chr5:9742616-9746795 FORWARD	FIHGDSFNSS
+>AT5G07370.2 | Symbols: IPK2a, ATIPK2A | IPK2a (INOSITOL POLYPHOSPHATE KINASE 2 ALPHA); inositol or phosphatidylinositol kinase/ inositol trisphosphate 6-kinase | chr5:2331251-2332111 FORWARD	FVSSNSLSDT
+>AT5G45910.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:18620420-18622264 REVERSE	FNFGDSLSDT
+>AT5G63170.1 | Symbols:  | GDSL-motif lipase, putative | chr5:25338699-25340096 REVERSE	IAFGDSILDT
+>AT5G42170.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds | chr5:16848786-16851707 FORWARD	ITFGDSIVDS
+>AT5G38620.1 | Symbols:  | MADS-box protein (AGL73) | chr5:15463858-15464907 REVERSE	YSFGHSSVDA
+>AT5G38620.1 | Symbols:  | MADS-box protein (AGL73) | chr5:15463858-15464907 REVERSE	FSYFQSLEDA
+>AT5G19310.1 | Symbols:  | homeotic gene regulator, putative | chr5:6498906-6503432 FORWARD	AVYSDSLSDL
+>AT5G38435.1 | Symbols: SPH8 | SPH8 (S-PROTEIN HOMOLOGUE 8) | chr5:15388080-15388478 FORWARD	FSFHDSLFKS
+>AT5G16640.1 | Symbols:  | pentatricopeptide (PPR) repeat-containing protein | chr5:5461031-5462545 FORWARD	FCRGDRVYDA
+>AT5G24970.1 | Symbols:  | ABC1 family protein | chr5:8604358-8608663 REVERSE	FVNRDSLSLA
+>AT5G18640.1 | Symbols:  | lipase class 3 family protein | chr5:6213247-6215494 FORWARD	SVMGNSISDH
+>AT5G45670.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:18528600-18530164 FORWARD	FIFGDSLVDN
+>AT5G24600.1 | Symbols:  | unknown protein | chr5:8421790-8423342 REVERSE	FVFGDKSDRA
+>AT5G53510.1 | Symbols: ATOPT9, OPT9 | ATOPT9 (ARABIDOPSIS THALIANA OLIGOPEPTIDE TRANSPORTER 9); oligopeptide transporter | chr5:21738849-21742082 FORWARD	FVFGHFLYKY
+>AT5G41870.1 | Symbols:  | glycoside hydrolase family 28 protein / polygalacturonase (pectinase) family protein | chr5:16758817-16760490 REVERSE	FIHGDGLNDV
+>AT5G41890.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:16764292-16766900 REVERSE	FIFGDSLVDV
+>AT5G44800.1 | Symbols: CHR4 | CHR4 (CHROMATIN REMODELING 4); ATP binding / DNA binding / chromatin binding / helicase/ nucleic acid binding / protein binding / zinc ion binding | chr5:18083659-18092162 REVERSE	MVTGNSLSDD
+>AT5G26850.1 | Symbols:  | INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: cyclin-related (TAIR:AT2G41830.1); Has 1	QVFPDTLLDA
+>AT5G44790.1 | Symbols: RAN1, HMA7 | RAN1 (RESPONSIVE-TO-ANTAGONIST 1); ATPase, coupled to transmembrane movement of ions, phosphorylative mechanism / copper ion transmembrane transporter | chr5:18075846-18079817 REVERSE	FMMGDWLKWA
+>AT5G14290.1 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: cellular_component unknown; CONTAINS InterPro DOMAIN/s: Ribosomal protein L37, mitochondrial (InterPro:IPR013870); BEST Arabid	RMFGDSISRS
+>AT5G37690.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:14973610-14976115 REVERSE	YIFGDSLTEV
+>AT5G02890.1 | Symbols:  | transferase family protein | chr5:670207-671454 REVERSE	FVFPSTFGDA
+>AT5G59700.1 | Symbols:  | protein kinase, putative | chr5:24052613-24055102 REVERSE	FHFCDIVSKA
+>AT5G38280.1 | Symbols: PR5K | PR5K; kinase/ transmembrane receptor protein serine/threonine kinase | chr5:15293325-15295838 REVERSE	RIFGDSITDE
+>AT5G08460.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:2733220-2735351 FORWARD	FVFGDSLVDN
+>AT5G61190.1 | Symbols:  | zinc finger protein-related | chr5:24615480-24619886 FORWARD	FFFGDLRSDF
+>AT5G20520.1 | Symbols: WAV2 | WAV2 (WAVY GROWTH 2) | chr5:6943536-6946315 REVERSE	VVFGRSLGGA
+>AT5G14450.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:4658488-4660034 FORWARD	YNFGDSNSDT
+>AT5G05880.1 | Symbols:  | UDP-glucoronosyl/UDP-glucosyl transferase family protein | chr5:1769648-1771515 FORWARD	SVQGDSYSDM
+>AT5G50630.1 | Symbols:  | nodulin family protein | chr5:20603021-20604928 REVERSE	YLFGGSMSPA
+>AT5G50520.1 | Symbols:  | nodulin family protein | chr5:20569680-20571587 REVERSE	YLFGGSMSPA
+>AT5G33370.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:12602773-12604670 REVERSE	LVFGDSLVDN
+>AT5G65500.1 | Symbols:  | ATP binding / kinase/ protein kinase/ protein serine/threonine kinase/ protein tyrosine kinase/ ubiquitin-protein ligase | chr5:26181093-26183997 REVERSE	KVIGDSLSDE
+>AT5G55730.1 | Symbols: FLA1 | FLA1 (FASCICLIN-LIKE ARAB INOGALACTAN 1) | chr5:22558375-22560392 REVERSE	DPFGDSDSPA
+>AT5G18430.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:6110363-6111934 REVERSE	FVFGDSLVDS
+>AT5G03820.1 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:1015803-1017251 REVERSE	IIMGDSVVDA
+>AT5G03810.1 | Symbols:  | carboxylesterase/ hydrolase, acting on ester bonds / lipase | chr5:1013939-1015345 REVERSE	IIMGDSVVDA
+>AT5G05460.1 | Symbols:  | hydrolase, acting on glycosyl bonds / mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase | chr5:1615615-1618771 FORWARD	FVPGDSGSKT
+>AT5G15720.1 | Symbols: GLIP7 | GLIP7; carboxylesterase/ lipase | chr5:5124684-5126155 REVERSE	FVFGDSLVDS
+>AT5G14200.1 | Symbols:  | 3-isopropylmalate dehydrogenase, chloroplast, putative | chr5:4576220-4578111 FORWARD	NIFGDILSDE
+>AT5G37340.1 | Symbols:  | zinc finger (ZPR1-type) family protein | chr5:14787488-14792373 REVERSE	FTFGDSLEQS
+>AT5G64570.1 | Symbols: XYL4, ATBXL4 | XYL4; hydrolase, hydrolyzing O-glycosyl compounds / xylan 1,4-beta-xylosidase | chr5:25810227-25813309 REVERSE	YAFGDGLSYT
+>AT5G07370.3 | Symbols: IPK2a, ATIPK2A | IPK2a (INOSITOL POLYPHOSPHATE KINASE 2 ALPHA); inositol or phosphatidylinositol kinase/ inositol trisphosphate 6-kinase | chr5:2331251-2332111 FORWARD	FVSSNSLSDT
+>AT5G07370.1 | Symbols: IPK2a, ATIPK2A | IPK2a (INOSITOL POLYPHOSPHATE KINASE 2 ALPHA); inositol or phosphatidylinositol kinase/ inositol trisphosphate 6-kinase | chr5:2331251-2332111 FORWARD	FVSSNSLSDT
+>AT5G07370.4 | Symbols: IPK2a, ATIPK2A | IPK2a (INOSITOL POLYPHOSPHATE KINASE 2 ALPHA); inositol or phosphatidylinositol kinase/ inositol trisphosphate 6-kinase | chr5:2331251-2332111 FORWARD	FVSSNSLSDT
+>AT5G37340.2 | Symbols:  | zinc finger (ZPR1-type) family protein | chr5:14787488-14792373 REVERSE	FTFGDSLEQS
+>AT5G03900.2 | Symbols:  | FUNCTIONS IN: molecular_function unknown; INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast envelope; EXPRESSED IN: 22 plant structures; EXPRESSED DURING: 13 growth stages; CONTAINS InterPro DOMAIN/s: FeS c	FVFGDGDPNQ
+>AT5G14200.3 | Symbols:  | 3-isopropylmalate dehydrogenase, chloroplast, putative | chr5:4576220-4577962 FORWARD	NIFGDILSDE
+>AT5G26850.2 | Symbols:  | INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: cyclin-related (TAIR:AT2G41830.1); Has 1	QVFPDTLLDA
+>AT5G26850.3 | Symbols:  | INVOLVED IN: biological_process unknown; LOCATED IN: chloroplast; EXPRESSED IN: 23 plant structures; EXPRESSED DURING: 13 growth stages; BEST Arabidopsis thaliana protein match is: cyclin-related (TAIR:AT2G41830.1); Has 1	QVFPDTLLDA
+>AT5G33370.2 | Symbols:  | GDSL-motif lipase/hydrolase family protein | chr5:12602864-12604670 REVERSE	LVFGDSLVDN
+>AT5G44572.1 | Symbols:  | unknown protein | chr5:17968195-17969351 FORWARD	FVFPCSLSQS
+>AT5G03540.2 | Symbols: ATEXO70A1 | ATEXO70A1 (exocyst subunit EXO70 family protein A1); protein binding | chr5:890194-893916 FORWARD	FRGFDSLSDQ
+>AT5G16120.2 | Symbols:  | hydrolase, alpha/beta fold family protein | chr5:5265820-5267775 FORWARD	FLFGQSMGGA
+>AT5G49110.2 | Symbols:  | unknown protein | chr5:19900203-19905925 FORWARD	FTFQDSASQA
+>ATCG00020.1 | Symbols: PSBA | Encodes chlorophyll binding protein D1, a part of the photosystem II reaction center core | chrC:383-1444 REVERSE	GVFGGSLFSA
