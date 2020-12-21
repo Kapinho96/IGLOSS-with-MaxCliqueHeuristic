@@ -1,6 +1,8 @@
 # IGLOSS algorithm combined with Maximal Clique Heuristic
 
-A research project in bioinformatics made in Python 3 as a part of my master's thesis.
+A research project in bioinformatics concerning analysis of protein motifs in various plant proteomes.
+Codes were written in Python 3 as part of my master's thesis.
+Special thanks primarily to my mentor dr. sc. Pavle Goldstein and additionally to dr. sc. Braslav Rabar, both of whom provided me with invaluable guidance in this project.
 
 ## Folder explanation
 
