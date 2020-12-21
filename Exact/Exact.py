@@ -62,7 +62,7 @@ def N(v, g):
 seqFilename = "output_none.tsv"
 param = 2.5 #Expected similarity
 
-f = open(seqFilename,"r") #spremim sve redove u fileu u listu sim_motifs
+f = open(seqFilename,"r")
 sim_motifs = f.readlines()
 f.close()
 sim_motifs = sim_motifs[1:] #because the first row in the file is blank
